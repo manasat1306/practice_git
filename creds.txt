@@ -1,2 +1,0 @@
-username = manasa
-password = xyz123
