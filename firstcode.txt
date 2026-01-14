@@ -1,5 +1,1 @@
-hlo world!!!
-take input from user
-add the values
-
-submit data to the database
+get the user data..
